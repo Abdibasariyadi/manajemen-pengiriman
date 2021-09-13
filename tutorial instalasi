@@ -1,0 +1,14 @@
+Cara instalasi..
+
+Download dan extract
+
+Kemudian folder laundry_phpmu copy ke folder root (c/xampp/htdocs)
+
+import database yang ada di dalam folder ../databases
+
+Konfigurasi database di file ../env sesuaikan dengan komputer masing2
+
+Kemudian akses dengan localhost/laundry_phpmu/public
+
+========= wa token by wablas.com =========
+Untuk dapat notif realtime dari wa, silahkan registrasi di wablas.com, kemudian ikuti petunjuknya.. dan copy token ke menu settings->wa token

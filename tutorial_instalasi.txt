@@ -1,0 +1,11 @@
+    Extract the archive and put it in the folder you want
+
+    Rename .env.example menjadi .env
+
+    Konfigurasi database di file .env
+
+    Import file .sql yang ada di dalam folder database ke database kamu
+
+    Jalankan perintah : composer install di CMD 
+
+    Kemudian jalankan perintah : php artisan key:generate
